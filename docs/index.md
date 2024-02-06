@@ -1,19 +1,12 @@
 
-# Welcome to Lumache's documentation!
+# Welcome to Imperial College London's RCS User Guide
 
-**Changed to MKDocs**
+This web site contains the user guides for services provided by Imperial College London's [Research Computing Support or RCS](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/){.external-link} Platforms team.
 
-**Lumache** (/lu\'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients. It pulls data from the
-[Open Food Facts database](https://world.openfoodfacts.org/) and offers
-a *simple* and *intuitive* API.
+Please go to the [Research Computing Service home page](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/){.external-link} for more information about these services and how to register to use them.
 
-Check out the [usage](usage) section for further information, including how to [install](usage#installation) the project.
+The following services are currently provided by the RCS Platforms team, please click on each link for further information.
 
-!!! note
+* [High Performance Computing](hpc)
+* [Research Data Store](rds)
 
-    This project is under active development.
-
-# Readme for reference
-
-{!README.md!}
