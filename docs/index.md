@@ -1,4 +1,3 @@
-{!README.md!}
 
 # Welcome to Lumache's documentation!
 
@@ -15,3 +14,6 @@ Check out the [usage](usage) section for further information, including how to [
 
     This project is under active development.
 
+# Readme for reference
+
+{!README.md!}
