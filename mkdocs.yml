@@ -1,4 +1,4 @@
-site_name: Basic MkDocs Example Project
+site_name: ICL RCS User Guide
 theme:
   name: readthedocs
   highlightjs: true
@@ -14,3 +14,18 @@ markdown_extensions:
   - markdown_include.include:
       base_path: .
   - admonition
+  - tables
+
+nav:
+  - Home: index.md
+  - HPC:
+    - HPC at Imperial: hpc/index.md
+    - Getting Started:
+      - Where to Start: hpc/getting-started/index.md
+      - Using SSH: hpc/getting-started/using-ssh.md
+      - Data Management: hpc/getting-started/data-management-on-hpc.md
+      - Accessing Software: hpc/getting-started/accessing-software.md
+      - Running your first job: hpc/getting-started/running-your-first-job.md
+    - Cluster Specification: hpc/cluster-specification.md
+  - RDS:
+    - RDS: rds/index.md
